@@ -3,7 +3,7 @@
 Simulez à l'aide d'un logiciel de prototypage l'interaction d'un menu *burger*.
 
 ### Résultat attendu :
-![Résultat attendu](https://github.com/Abardin-dev/Cas-pratiques/blob/main/Prototypage/overlay.gif)
+![Résultat attendu](https://github.com/Abardin-dev/Cas-pratiques/blob/master/Prototypage/overlay.gif)
 
 ## Consignes :
 - Créez un cadre de travail au format mobile (ex: 360x640)

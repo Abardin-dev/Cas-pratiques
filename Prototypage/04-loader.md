@@ -3,7 +3,7 @@
 Simulez à l'aide d'un logiciel de prototypage le remplissage d'une barre de progression.
 
 ### Résultat attendu :
-![Résultat attendu](https://github.com/Abardin-dev/Cas-pratiques/blob/main/Prototypage/loader.gif)
+![Résultat attendu](https://github.com/Abardin-dev/Cas-pratiques/blob/master/Prototypage/loader.gif)
 
 ## Consignes :
 - Créez un élément ayant l'apparence d'un bouton (dimensions aproximatives : 300x75, couleur de fond : `#C4C4C4`)

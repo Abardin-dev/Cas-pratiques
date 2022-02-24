@@ -3,7 +3,7 @@
 Simulez à l'aide d'un logiciel de prototypage l'interaction au clic d'un utilisateur.
 
 ### Résultat attendu :
-![Résultat attendu](https://github.com/Abardin-dev/Cas-pratiques/blob/main/Prototypage/click.gif)
+![Résultat attendu](https://github.com/Abardin-dev/Cas-pratiques/blob/master/Prototypage/click.gif)
 
 ## Consignes :
 - Créez un élément ayant l'apparence d'un bouton (dimensions aproximatives : 300x75, couleur de fond : `#C4C4C4`)
