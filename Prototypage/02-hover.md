@@ -3,7 +3,7 @@
 Simulez à l'aide d'un logiciel de prototypage l'interaction au survol d'un élément web.
 
 ### Résultat attendu :
-![Résultat attendu](https://github.com/Abardin-dev/Atelier/blob/main/Adobe/Adobe%20XD/Exercices/animations/medias/hover.gif)
+![Résultat attendu](https://github.com/Abardin-dev/Cas-pratiques/blob/main/Prototypage/hover.gif)
 
 ## Consignes :
 - Créez un élément ayant l'apparence d'un bouton (dimensions aproximatives : 300x75, couleur de fond : `#C4C4C4`)

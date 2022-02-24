@@ -3,7 +3,7 @@
 Simulez à l'aide d'un logiciel de prototypage l'interaction d'un *slider* web (navigation entre les différentes slides).
 
 ### Résultat attendu :
-![Résultat attendu](https://github.com/Abardin-dev/Atelier/blob/main/Adobe/Adobe%20XD/Exercices/animations/medias/slider.gif)
+![Résultat attendu](https://github.com/Abardin-dev/Cas-pratiques/blob/main/Prototypage/slider.gif)
 
 ## Consignes :
 - Sélectionnez 3 images pour votre *slider*
@@ -16,5 +16,3 @@ Simulez à l'aide d'un logiciel de prototypage l'interaction d'un *slider* web (
 
 ## Compétences abordées :
 * Prototypage
-
-
