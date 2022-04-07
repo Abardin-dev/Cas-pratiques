@@ -2,6 +2,7 @@
 
 ## Divers
 https://designshack.net/articles/business-articles/10-skills-every-designer-needs-on-their-resume/
+https://dev.to/butadpj/teaching-yourself-effectively-7ei
 
 ## Adobe Animate
 
